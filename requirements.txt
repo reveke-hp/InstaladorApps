@@ -1,0 +1,2 @@
+# No se necesitan librerías externas para esta versión básica
+# Solo Python estándar

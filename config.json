@@ -1,0 +1,24 @@
+{
+    "aplicaciones": {
+        "365": "\\\\10.99.8.108\\aplicaciones\\Software\\Microsfot\\Office 365\\OfficeSetup.exe",
+        "Adobe Reader": "\\\\10.99.8.108\\aplicaciones\\Adobe Reader\\Reader_es_install.exe",
+        "Biocom": "\\\\10.99.8.108\\biocom\\Biocom_x64.exe",
+        "Brave": "\\\\10.99.8.108\\aplicaciones\\navegadores\\brave\\installer.exe",
+        "Ergo View": "\\\\10.99.8.108\\d\\EcosurNew\\Instalador_ecgview_rst_str_0718.exe",
+        "Firefox": "\\\\10.99.8.108\\aplicaciones\\navegadores\\firefox\\installer.exe",
+        "Google Chrome": "\\\\10.99.8.108\\aplicaciones\\navegadores\\Chrome\\ChromeSetup.exe",
+        "Kaspersky": "\\\\10.99.8.108\\aplicaciones\\Antivirus\\12.10\\installer.exe",
+        "Office 2016": "\\\\10.99.8.108\\aplicaciones\\Software\\Microsfot\\Office2016_64\\setup.exe",
+        "OpenVPN": "\\\\10.99.8.108\\aplicaciones\\VPN\\OpenVpnWin-connect-3.3_signed.msi",
+        "PDF24": "\\\\10.99.8.108\\aplicaciones\\PDF4\\pdf24-creator-installer.exe",
+        "Polichequeos": "\\\\10.99.8.108\\aplicaciones\\Polichequeos\\instalador\\setupPolichequeos.exe",
+        "Portal": "\\\\10.99.8.108\\aplicaciones\\portal\\instalarPortalCab.bat",
+        "Tablero de camas": "\\\\10.99.8.108\\aplicaciones\\TableroCamas\\Instalador\\TableroCamasSetup.exe",
+        "Trii": "\\\\10.99.8.108\\aplicaciones\\Trii\\TriiCliente_5.exe",
+        "ScannerMarkey": "\\\\10.99.8.108\\aplicaciones\\Scannermarkey\\ScannerMarkey.msi",
+        "VLC Media Player": "\\\\10.99.8.108\\aplicaciones\\VLC Media Player\\vlc-3.0.21-win32.exe",
+        "VNC": "\\\\10.99.8.108\\aplicaciones\\Software\\VNC\\UltraVNC_1431_X64_Setup.exe",
+        "WinRAR": "\\\\10.99.8.108\\aplicaciones\\winrar\\installer.exe",
+        "Zoom": "\\\\10.99.8.108\\aplicaciones\\zoom\\zoom_installer.exe"
+    }
+}
